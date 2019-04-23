@@ -1,6 +1,7 @@
 require "preload"
 local modal = require "modal"
 require "preview-app"
+require "adobe_reader"
 
 hs.hints.style = "vimperator"
 hs.hints.showTitleThresh = 4
