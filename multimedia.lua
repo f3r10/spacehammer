@@ -1,6 +1,6 @@
 local multimedia = {}
 
-multimedia.musicApp = "Google Play Music Desktop Player"
+multimedia.musicApp = "Spotify"
 
 multimedia.mKey = function (key)
   return function()
